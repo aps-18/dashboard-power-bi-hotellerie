@@ -69,7 +69,7 @@ Le tableau de bord est composé de **six pages complémentaires**, permettant de
 
 Page d'introduction présentant l'identité visuelle de l'Hôtel Prestige et donnant accès aux différentes parties du tableau de bord.
 
-![Accueil](dashboard/01_accueil.jpeg)
+![Accueil](dashboard/01_accueil.png)
 
 ### 2. Performance globale
 
@@ -77,7 +77,7 @@ Cette page synthétise les principaux indicateurs financiers et opérationnels d
 
 Elle permet également d'analyser la structure du chiffre d'affaires et la répartition des coûts opérationnels.
 
-![Performance globale](dashboard/02_performance_globale.jpeg)
+![Performance globale](dashboard/02_performance_globale.png)
 
 ### 3. Performance par étages
 
@@ -85,7 +85,7 @@ Cette page compare les performances des différents étages thématiques de l'h�
 
 Elle permet notamment d'étudier le nombre de réservations, le chiffre d'affaires, la rentabilité et l'évolution du profit, ainsi que de mettre en relation **attractivité et rentabilité**.
 
-![Performance par étages](dashboard/03_etages.jpeg)
+![Performance par étages](dashboard/03_etages.png)
 
 ### 4. Performance par type de chambre
 
@@ -93,7 +93,7 @@ Cette analyse porte sur les **300 chambres** de l'établissement et permet de co
 
 Elle présente notamment le rendement par chambre, le tarif moyen, les coûts, le profit, la contribution au chiffre d'affaires et l'évolution du taux d'occupation.
 
-![Performance par type de chambre](dashboard/04_chambres.jpeg)
+![Performance par type de chambre](dashboard/04_chambres.png)
 
 ### 5. Analyse client et demande
 
@@ -109,7 +109,7 @@ Elle permet d'analyser :
 - les annulations et no-shows ;
 - le délai moyen entre réservation et séjour.
 
-![Analyse client et demande](dashboard/05_clients_demande.jpeg)
+![Analyse client et demande](dashboard/05_clients_demande.png)
 
 ### 6. Analyse temporelle
 
@@ -117,7 +117,7 @@ La dernière page permet d'étudier l'évolution de l'activité sur la période 
 
 Elle regroupe notamment le chiffre d'affaires et le profit cumulés, la croissance du chiffre d'affaires, la marge opérationnelle, le taux d'occupation, l'évolution mensuelle de l'activité, le RevPAR et la structure des coûts.
 
-![Analyse temporelle](dashboard/06_analyse_temporelle.jpeg)
+![Analyse temporelle](dashboard/06_analyse_temporelle.png)
 
 ## Interactivité
 
@@ -184,11 +184,11 @@ dashboard-power-bi-hotellerie/
 
 ## Fichiers du projet
 
-Le fichier Power BI complet est disponible dans le dossier [`power-bi`](power-bi/).
+Le fichier Power BI complet est disponible dans le dossier [`power-bi`](power_bi/).
 
 La synthèse détaillant la démarche, la construction du tableau de bord et l'interprétation des résultats est disponible ici :
 
-[Consulter la synthèse du projet](rapport/synthese.pdf)
+[Consulter la synthèse du projet](rapport/synthèse.pdf)
 
 ## Auteurs
 
