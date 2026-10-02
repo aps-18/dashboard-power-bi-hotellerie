@@ -1,7 +1,7 @@
 
 # Tableau de bord Power BI — Hôtel Prestige
 
-Projet réalisé dans le cadre du cours de Power BI encadré par Andre Angwe, en Master 1 Économétrie Appliquée à l'IAE Nantes.
+Projet réalisé dans le cadre du cours de Power BI encadré par André Angwe, en Master 1 Économétrie Appliquée à l'IAE Nantes.
 
 L'objectif du projet était de concevoir un **tableau de bord décisionnel interactif** permettant d'analyser les performances financières, opérationnelles et commerciales d'un établissement hôtelier fictif.
 
@@ -188,7 +188,7 @@ Le fichier Power BI complet est disponible dans le dossier [`power-bi`](power_bi
 
 La synthèse détaillant la démarche, la construction du tableau de bord et l'interprétation des résultats est disponible ici :
 
-[Consulter la synthèse du projet](rapport/synthèse.pdf)
+[Consulter la synthèse du projet](rapport/synthese.pdf)
 
 ## Auteurs
 
