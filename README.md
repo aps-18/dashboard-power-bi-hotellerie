@@ -176,7 +176,7 @@ dashboard-power-bi-hotellerie/
 │   └── 06_analyse_temporelle.jpeg
 ├── data/
 │   └── db.xlsx
-├── power-bi/
+├── power_bi/
 │   └── PowerBI_hotel.pbix
 └── rapport/
     └── synthese.pdf
